@@ -1,0 +1,6 @@
+pytesseract
+googletrans     
+matplotlib     
+numpy           
+pytest        
+textblob        
